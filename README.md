@@ -1,1 +1,1 @@
-how to install a repo in VS Code itself
+learn to upload from local git to github
